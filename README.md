@@ -13,7 +13,9 @@ These packages are included:
 - mrt:momentjs
 - sacha:spin
 - accounts-password
+- accounts-facebook
 - accounts-ui
 - underscore
+- meteor-collection-hooks
 
 Inside the public folder there's a Codekit Compass project set up.
