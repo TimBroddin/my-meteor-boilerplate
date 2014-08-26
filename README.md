@@ -34,6 +34,8 @@ If you rather prefer [Grunt](http://gruntjs.com/) you can find everything set up
 ### JS
 /public/scripts/libs/* and /public/scripts/app.js get concatenated and minified to /public/scripts/production.min.js
 
+It is best practice to put your client-side scripts in /client/ so use this only when you need finer control.
+
 ### Compass
 /public/sass/screen.scss gets compiled to /public/stylesheets/screen.css
 
